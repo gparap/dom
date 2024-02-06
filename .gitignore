@@ -1,8 +1,7 @@
 
 random-quote-generator/assets/bootstrap/css/bootstrap.min.css
 random-quote-generator/assets/bootstrap/js/bootstrap.min.js
-e-library/css/bootstrap.min.css
-e-library/js/bootstrap.min.js
+random-quote-generator/assets/bootstrap/js/bootstrap.bundle.min.js.map
 calculator-tip/css/bootstrap.min.css
 calculator-tip/js/bootstrap.bundle.min.js.map
 calculator-tip/js/bootstrap.min.js
@@ -16,3 +15,6 @@ image-gallery/.settings/org.eclipse.wst.common.component
 image-gallery/.settings/org.eclipse.wst.common.project.facet.core.xml
 image-gallery/.settings/org.eclipse.wst.jsdt.ui.superType.container
 image-gallery/.settings/org.eclipse.wst.jsdt.ui.superType.name
+digital-chronometer/assets/bootstrap/css/bootstrap.min.css
+digital-chronometer/assets/bootstrap/js/bootstrap.bundle.min.js.map
+digital-chronometer/assets/bootstrap/js/bootstrap.min.js
